@@ -1,6 +1,7 @@
-# Welcome to Remix!
+# Demo Remix on Vercel with Prisma
 
-- 📖 [Remix docs](https://remix.run/docs)
+- [Remix Docs](https://remix.run/docs)
+- [Prisma Docs](https://prisma.io/docs)
 
 ## Development
 
